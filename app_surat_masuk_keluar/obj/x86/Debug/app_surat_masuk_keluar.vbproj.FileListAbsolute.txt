@@ -1,0 +1,48 @@
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\app_surat_masuk_keluar.exe
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\app_surat_masuk_keluar.pdb
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\app_surat_masuk_keluar.xml
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.Form1.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.Resources.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.vbproj.GenerateResource.Cache
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.exe
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.xml
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.pdb
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.login.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.user.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.surat_keluar.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.surat_masuk.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\app_surat_masuk_keluar.exe.config
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.vbprojResolveAssemblyReference.cache
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.print_srt_masuk.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.print_srt_keluar.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.cetak_laporan.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.cetak_laporan2.resources
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\Interop.AcroPDFLib.dll
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\Interop.AcroPDFLib.dll
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+E:\project vb 10\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.vbproj.ResolveComReference.cache
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\app_surat_masuk_keluar.exe.config
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\Interop.AcroPDFLib.dll
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.vbproj.ResolveComReference.cache
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.exe
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.xml
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.pdb
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\app_surat_masuk_keluar.exe
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\app_surat_masuk_keluar.pdb
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\app_surat_masuk_keluar.xml
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\Interop.AcroPDFLib.dll
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.vbprojResolveAssemblyReference.cache
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.cetak_laporan.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.cetak_laporan2.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.Form1.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.login.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.Resources.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.print_srt_keluar.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.print_srt_masuk.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.surat_keluar.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.surat_masuk.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.user.resources
+E:\AAA\app_surat_masuk_keluar\app_surat_masuk_keluar\obj\x86\Debug\app_surat_masuk_keluar.vbproj.GenerateResource.Cache
